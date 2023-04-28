@@ -3,3 +3,5 @@
 Requirements of TATA 
 
 Need to display the "hello TATA" in GUI after pressing show the message.
+
+One "Show Message Control"

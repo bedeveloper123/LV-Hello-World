@@ -1,0 +1,4 @@
+Yes we can create "Hello World" display based on show display message control
+
+
+Thanks in advance.
